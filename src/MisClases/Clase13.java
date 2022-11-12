@@ -50,5 +50,5 @@ public class Clase13 {
 }
 
 interface ModificarCadena {
-    String ejecutar(String text);
+    public String ejecutar(String text);
 }
